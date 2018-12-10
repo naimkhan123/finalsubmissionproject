@@ -1,0 +1,50 @@
+/* styles.css */
+html,
+body{
+	height: 100%;
+}
+
+#nav-main{
+
+    width: 100%;
+}
+#form-inline{
+	width: 100%;
+	align-items: right;
+}
+
+#newgroup{
+	width: 90%;
+	float: center;
+	padding: 80px 200px;
+
+}
+#navfront{
+	font-size: 20px;
+	color: white;
+}
+#registration{
+	font-size: 20px;
+	color:red;
+}
+#SubmitButton{
+	float: right;
+}
+#border{
+	width: 20%;
+	top:80px;
+	font-size:20px;
+	align-items: right;
+}
+#reg{
+	font-size: 20px;
+}
+#report{
+	font-size: 20px;
+	font-weight: bold;
+	color:green;
+
+}
+
+
+
